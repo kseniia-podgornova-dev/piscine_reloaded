@@ -6,7 +6,7 @@
 /*   By: kpodgorn <kpodgorn@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/21 15:16:33 by kpodgorn          #+#    #+#             */
-/*   Updated: 2026/10/21 15:17:32 by kpodgorn         ###   ########.fr       */
+/*   Updated: 2026/10/21 21:18:57 by kpodgorn         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,7 +21,7 @@ void	ft_print_alphabet(void)
 	c = 'a';
 	while (c <= 'z')
 	{
-		write(1, &c, 1);
+		ft_putchar(c);
 		c++;
 	}
 }
