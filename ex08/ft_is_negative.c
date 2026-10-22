@@ -6,11 +6,11 @@
 /*   By: kpodgorn <kpodgorn@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/21 15:16:11 by kpodgorn          #+#    #+#             */
-/*   Updated: 2026/10/21 19:11:19 by kpodgorn         ###   ########.fr       */
+/*   Updated: 2026/10/21 21:08:37 by kpodgorn         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <unistd.h>
+// #include <unistd.h>
 
 void	ft_putchar(char c);
 
